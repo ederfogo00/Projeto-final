@@ -1,0 +1,26 @@
+/*Zebra tracking system*/
+https://www.zebra.com/content/dam/zebra/product-information/en-us/brochures-datasheets/location-solutions/motionworks-datasheet-en-us.pdf
+
+/*NBA*/
+http://www.stats.com/pro-team-solutions/
+http://vision.fe.uni-lj.si/docs/janezp/iwispa2000-janez.pdf
+http://www.sportvu.com/pdfs/sportvu_football_playeranalysis.pdf
+
+/*DS Football statware*/
+http://www.digitalscout.com/football
+
+/*Soccer stats lite*/
+http://hayava.com/mobile/soccer-app/
+
+/*Soccer Snap - Coaches Tool*/
+http://agiletracksoftware.com/	/**/
+https://play.google.com/store/apps/details?id=com.agiletrack.soccersnap
+
+/*agile development*/
+http://en.wikipedia.org/wiki/Agile_software_development
+http://en.wikipedia.org/wiki/Extreme_programming
+
+/*uml*/
+http://www.omg.org/gettingstarted/what_is_uml.htm
+http://www.uml.org/
+http://portal.ipg.pt/bbcswebdav/pid-327761-dt-content-rid-261038_1/courses/79_56C1029/IntroducaoUML%20%281%29.pdf
